@@ -1,4 +1,4 @@
-# :fast_forward: RGB Slider :rewind:
+<h1 align = "center"> :fast_forward: RGB Slider :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
