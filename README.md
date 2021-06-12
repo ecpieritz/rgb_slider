@@ -26,7 +26,7 @@ With this simple activity, we were able to manipulate the rgb scale through rang
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/rgb_slider.git
+git clone https://github.com/ecpieritz/rgb_slider.git
 
 #### Enter directory
 `cd rgb_slider`
